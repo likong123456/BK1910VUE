@@ -1,5 +1,5 @@
 <template>
-  <div class="figure">
+  <div class="figure" v-if="flag">
     <div class="dot white"></div>
     <div class="dot"></div>
     <div class="dot"></div>
@@ -15,7 +15,7 @@ export default {};
 <style>
 /* body { background: #222; } */
 .figure {
-  background: rgb(39, 38, 38);
+  background: #00ff00;
   position: absolute;
   margin: auto;
   top: 0;

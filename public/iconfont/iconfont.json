@@ -6,6 +6,13 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "15367",
+      "name": "下三角形",
+      "font_class": "xiasanjiaoxing",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
       "icon_id": "599957",
       "name": "我的",
       "font_class": "wode",
@@ -60,6 +67,13 @@
       "font_class": "yingyuanA",
       "unicode": "e655",
       "unicode_decimal": 58965
+    },
+    {
+      "icon_id": "6119218",
+      "name": "下-三角",
+      "font_class": "below-s",
+      "unicode": "e627",
+      "unicode_decimal": 58919
     },
     {
       "icon_id": "6322738",
